@@ -132,4 +132,4 @@ mostly buy bikes for office commutes or outings with friends.
 ## Conclusion 
 The bike market is driven primarily by urban, average-income, single professionals—especially females and bachelors—with short commutes, no children, and limited car ownership. By aligning marketing and product strategies with these user personas, Bike Company can boost engagement, sales, and brand resonance across the right customer segments.
 
-## Dashboard Download Link:
+### [Download Excel Dashboard](https://raw.githubusercontent.com/rohitgupta100595/Bike-Sales-Analysis/main/Dashboard.xlsx)
