@@ -26,7 +26,7 @@ transformation, analysis, and visualization to drive meaningful business insight
 
 ## Dashboard Insights
 ### Demographic and buyer behaviour analysis
-![](https://github.com/rohitgupta100595/Bike-Sales-Analysis/blob/main/1.jpg)
+![](https://raw.githubusercontent.com/rohitgupta100595/Bike-Sales-Analysis/main/1.jpg)
 - Among all categories, single females lead in bike purchases.
   - More personal freedom in financial decisions.
   - Possibly urban, independent lifestyle where biking is convenient and trendy. 
@@ -41,12 +41,12 @@ transformation, analysis, and visualization to drive meaningful business insight
   - Increasing trend of independent, health-focused urban women embracing biking.
   - Growing infrastructure and social acceptance encouraging female ridership.
 
-![](https://github.com/rohitgupta100595/Bike-Sales-Analysis/blob/main/2.jpg)
+![](https://raw.githubusercontent.com/rohitgupta100595/Bike-Sales-Analysis/main/2.jpg)
 - Single Users buy bikes slightly more than married users.
 - This could be due to the fact that single users generally do not have partners or kids. They 
 mostly buy bikes for office commutes or outings with friends.
 
-![](https://github.com/rohitgupta100595/Bike-Sales-Analysis/blob/main/3.jpg)
+![](https://raw.githubusercontent.com/rohitgupta100595/Bike-Sales-Analysis/main/3.jpg)
 - The highest bike purchases (259) come from adults in the average income group.
   - This could be due to balanced affordability and practical need (commuting, exercise).
   - Adults in this range may not afford cars or may prefer bikes for short-distance travel.
@@ -64,7 +64,7 @@ mostly buy bikes for office commutes or outings with friends.
   - Lifestyle may not require biking due to convenience of private vehicles.
 
 ### Lifestyle and Assets Analysis
-![](https://github.com/rohitgupta100595/Bike-Sales-Analysis/blob/main/4.jpg)
+![](https://raw.githubusercontent.com/rohitgupta100595/Bike-Sales-Analysis/main/4.jpg)
 - Homeowners with no cars make the most bike purchases.
   - Possibly urban dwellers who don’t need cars due to proximity to work or amenities.
   - Bikes act as a primary mode of transport.
@@ -79,7 +79,7 @@ mostly buy bikes for office commutes or outings with friends.
   - This is because Bikes are a cost-effective commuting alternative for those who can’t afford a car or housing.
   - Could reflect student or lower-income demographics in urban areas.
 
- ![](https://github.com/rohitgupta100595/Bike-Sales-Analysis/blob/main/5.jpg)
+ ![](https://raw.githubusercontent.com/rohitgupta100595/Bike-Sales-Analysis/main/5.jpg)
 - People with 0 children bought the most bikes.
   - This is because they likely have more disposable income and free time.
   - Greater lifestyle flexibility to use bikes for fitness, commuting, or leisure.
@@ -92,7 +92,7 @@ mostly buy bikes for office commutes or outings with friends.
   - With 1–2 kids, families may still manage bike-friendly lifestyles.
   - Could involve shared family biking, bike trailers for kids, or couples using bikes while kids are young.
  
-![](https://github.com/rohitgupta100595/Bike-Sales-Analysis/blob/main/6.jpg) 
+![](https://raw.githubusercontent.com/rohitgupta100595/Bike-Sales-Analysis/main/6.jpg) 
 - Most bike purchases are by people with 0–1 mile commute.
   - Short distances are ideal for biking—convenient, fast, and efficient.
   - These users likely live close to work, school, or public transit.
@@ -105,7 +105,7 @@ mostly buy bikes for office commutes or outings with friends.
   - People with long commutes prefer cars or public transport.
 
 ### Geographic and Professional Insights 
-![](https://github.com/rohitgupta100595/Bike-Sales-Analysis/blob/main/7.jpg)
+![](https://raw.githubusercontent.com/rohitgupta100595/Bike-Sales-Analysis/main/7.jpg)
 - North America has the highest percentage of bike purchases (46%).
   - This could be due to favourable road networks and laws of North America’s vast road network and open highways encourage long distance motorcycle riding.
   - Also, consumers may be more willing to invest in high performance motorcycles for long distance travel and touring.
@@ -114,7 +114,7 @@ mostly buy bikes for office commutes or outings with friends.
   - This could be due to changing customer behaviour: Consumer are increasingly looking at motorcycles as leisure product rather than a primary mode of transportation, especially in some regions.
   - In some regions, poor road infrastructure can make riding motorcycles less appealing.
 
-![](https://github.com/rohitgupta100595/Bike-Sales-Analysis/blob/main/8.jpg)
+![](https://raw.githubusercontent.com/rohitgupta100595/Bike-Sales-Analysis/main/8.jpg)
 - Most bikes are purchased by bachelors who are “Professionals” in their occupation.
   - This could be due to high disposable income which allows them to afford bikes for different purposes.
   - Bikes can be convenient and efficient way to navigate urban areas, avoiding traffic congestions. 
