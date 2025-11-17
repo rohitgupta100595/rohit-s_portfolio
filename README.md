@@ -1,4 +1,4 @@
-# Project 1: Bike Sales Analysis
+# [Project 1: Bike Sales Analysis](https://github.com/rohitgupta100595/Bike-Sales-Analysis/tree/main)
 
 A data analysis project aimed at uncovering customer purchasing behavior and sales patterns in the Bike Dekho dataset using Microsoft Excel.
 
