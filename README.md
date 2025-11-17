@@ -22,7 +22,7 @@ transformation, analysis, and visualization to drive meaningful business insight
      - Home Ownership and Number of cars vs bike purchase trend.
      - Bike purchases by gender, income, Region, Education, Occupation etc.
 3. **Dashboard Creation:**
-![](https://github.com/rohitgupta100595/Bike-Sales-Analysis/blob/main/0.jpg)
+![](https://raw.githubusercontent.com/rohitgupta100595/Bike-Sales-Analysis/main/0.jpg)
 
 ## Dashboard Insights
 ### Demographic and buyer behaviour analysis
