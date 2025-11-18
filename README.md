@@ -84,7 +84,7 @@ A Streamlit app designed for:
 - Enhancing accessibility via geolocation features to locate food easily.
 - Data analysis on food wastage trends for better decision-making.
 - Running Custom Queries for deeper analytics.
-- Adding, Deleting, Updating, and Reading the Database via App.
+- Adding, Deleting, Updating, and Reading the Database via App(Inconsistencies/Duppicates are managed by database structure automatically).
 
 ## App Screenshots
 ![](https://raw.githubusercontent.com/rohitgupta100595/Local_Food_Wastage_Management_System/main/screenshots/1.jpg)    
@@ -138,3 +138,10 @@ A Streamlit app designed for:
   
 ## Conclusion 
 The Local Food Wastage Management System demonstrates immense potential to bridge the gap between surplus and need. By focusing on restaurants/catering waste reduction, strengthening NGO/charity redistribution networks, optimizing hub cities, and addressing perishable vegan food surplus, the system can significantly cut wastage while fighting food insecurity.
+
+[Streamlit App](https://localfoodwastagemanagementsystem-grodavfqbtkanzugvtbwyp.streamlit.app/)
+
+
+[Detailed Analytics Report PDF](https://raw.githubusercontent.com/rohitgupta100595/Local_Food_Wastage_Management_System/main/LOCAL%20FOOD%20WASTAGE%20ANALYSIS%20(Pdf).pdf)
+
+
