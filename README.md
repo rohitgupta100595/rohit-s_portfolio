@@ -72,3 +72,69 @@ These groups offer strong opportunities for targeted marketing and product strat
 
 
 [Download Detail Analytics PDF](https://raw.githubusercontent.com/rohitgupta100595/Bike-Sales-Analysis/main/Bike%20Dekho%20report.pdf)
+
+
+# [Project 2: Local Food Wastage Management System](https://github.com/rohitgupta100595/Local_Food_Wastage_Management_System/tree/main)
+A data analytics project aimed for analysing and reducing food wastage.
+
+## Project Overview
+A Streamlit app designed for:
+- Connecting surplus food providers to those in need through a structured platform.
+- Reducing food waste by redistributing excess food efficiently.
+- Enhancing accessibility via geolocation features to locate food easily.
+- Data analysis on food wastage trends for better decision-making.
+- Running Custom Queries for deeper analytics.
+- Adding, Deleting, Updating, and Reading the Database via App.
+
+## App Screenshots
+![](https://raw.githubusercontent.com/rohitgupta100595/Local_Food_Wastage_Management_System/main/screenshots/1.jpg)    
+
+![](https://raw.githubusercontent.com/rohitgupta100595/Local_Food_Wastage_Management_System/main/screenshots/2.jpg)
+
+![](https://raw.githubusercontent.com/rohitgupta100595/Local_Food_Wastage_Management_System/main/screenshots/3.jpg)
+
+![](https://raw.githubusercontent.com/rohitgupta100595/Local_Food_Wastage_Management_System/main/screenshots/4.jpg)
+
+
+## Key Insights
+1. **Food Providers contributing the most food**
+   - Restaurants are Primary Contributors.
+   - Catering Services & Supermarkets Are Significant Sources
+   - Grocery Stores Contribute Least, but Still Substantial
+   - Close Quantities Across Providers
+  
+2. **Recievers claiming the most food**
+   - Charities are Primary Receivers.
+   - NGOs as Key Secondary Receivers.
+   - Individuals and Shelters Claim Less.
+   - Balanced Food Distribution Network
+
+3. **Top 5 Cities having the highest food listings**
+   - East Heatherport is the Largest Contributor.
+   - Mid-Level Contributors (Lake Andrewmouth & Jamesfurt).
+   - Smaller Contributors (South Kathryn & New Carol).
+   - Urban Centre generate most surplus food.
+4. **Commonly Available food types**
+   - Vegan Food is the Most Commonly Wasted/Available
+   - Moderate Surplus in Vegetarian Food
+   - Least Contribution from Non-Vegetarian Food
+   - Plant-based food is overproduced
+  
+5. **Claim status distribution**
+   - Cancelled, Completed, and Pending statuses are fairly close.
+   - A large portion of claims are Cancelled.
+   - A significant percentage of claims remain Pending.
+6. **Food claims made for each item**
+   - Rice, Dairy, Fish, Soup, and Salad are the most frequently claimed items.
+   - Bread, Chicken, Pasta, Vegetables show moderate claims.
+   - Fruits show the least claims.
+   - Staple foods drive wastage.
+   - Perishables (Dairy, Fish, Salad, Soup) dominate the high claim list.
+7. **Most claimed meal type**
+   - Breakfast Dominates Food Claims
+   - Lunch & Snacks Are Close in Claims
+   - Dinner Has the Least Claims
+   - Focus should be on breakfast planning
+  
+## Conclusion 
+The Local Food Wastage Management System demonstrates immense potential to bridge the gap between surplus and need. By focusing on restaurants/catering waste reduction, strengthening NGO/charity redistribution networks, optimizing hub cities, and addressing perishable vegan food surplus, the system can significantly cut wastage while fighting food insecurity.
