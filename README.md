@@ -145,3 +145,18 @@ The Local Food Wastage Management System demonstrates immense potential to bridg
 [Detailed Analytics Report PDF](https://raw.githubusercontent.com/rohitgupta100595/Local_Food_Wastage_Management_System/main/LOCAL%20FOOD%20WASTAGE%20ANALYSIS%20(Pdf).pdf)
 
 
+# [Project 3: Sugar Cosmetics Instagram Analysis](https://github.com/rohitgupta100595/Sugar_Cosmetics_Instagram_Analysis)
+## Project Objectives
+- Evaluating the performance of Sugar Cosmetics Instagram Account.
+- Identifying trends in content performance.
+- Analysing audience demographics & growth trends.
+- Providing data driven insights to refine and support social media strategy.
+
+## Data Acquisition and Cleaning
+- The data was given by the mentors of Labmentix.
+- No major inconsistencies was found in dataset, after validation.
+- Post_Date column was converted to DATE format using MySQL.
+- Some Preliminary analysis was done SQL.
+
+## Dashboard Screenshots
+
