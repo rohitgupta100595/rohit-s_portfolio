@@ -159,4 +159,23 @@ The Local Food Wastage Management System demonstrates immense potential to bridg
 - Some Preliminary analysis was done SQL.
 
 ## Dashboard Screenshots
+![](https://raw.githubusercontent.com/rohitgupta100595/Sugar_Cosmetics_Instagram_Analysis/main/screenshots/1.png) ![](https://raw.githubusercontent.com/rohitgupta100595/Sugar_Cosmetics_Instagram_Analysis/main/screenshots/2.png) ![](https://raw.githubusercontent.com/rohitgupta100595/Sugar_Cosmetics_Instagram_Analysis/main/screenshots/3.png) ![](https://raw.githubusercontent.com/rohitgupta100595/Sugar_Cosmetics_Instagram_Analysis/main/screenshots/4.png) ![](https://raw.githubusercontent.com/rohitgupta100595/Sugar_Cosmetics_Instagram_Analysis/main/screenshots/5.png) ![](https://raw.githubusercontent.com/rohitgupta100595/Sugar_Cosmetics_Instagram_Analysis/main/screenshots/6.png)
 
+
+## Overall insights
+- High and stable Engagement.
+- Tutorials are the king of value.
+- Reels/Stories are the best format.
+- Audience speaks inspiration.
+
+
+[Download Data](https://raw.githubusercontent.com/rohitgupta100595/Sugar_Cosmetics_Instagram_Analysis/main/assets/sugar_cosmetics_instagram_data.csv)
+
+
+[Download Dashboard](https://raw.githubusercontent.com/rohitgupta100595/Sugar_Cosmetics_Instagram_Analysis/main/assets/Sugar%20Cosmetics%20Dashboard.pbix)
+
+
+[Download Report Prentation](https://raw.githubusercontent.com/rohitgupta100595/Sugar_Cosmetics_Instagram_Analysis/main/assets/Instagram%20Performance%20Analytics%20for%20Sugar%20Cosmetics.pptx)
+
+
+[Download SQL File](https://raw.githubusercontent.com/rohitgupta100595/Sugar_Cosmetics_Instagram_Analysis/main/assets/SQL_Code.sql)
